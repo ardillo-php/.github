@@ -1,2 +1,4 @@
-## Ardillo &nbsp;  _Build Asynchronous Desktop Applications with PHP_
+## Ardillo
+> Build Asynchronous Desktop Applications with PHP
+
 ![Ardillo Screenshots](https://ardillo.dev/images/shots/ardillo.gif)
