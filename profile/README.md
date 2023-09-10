@@ -8,3 +8,7 @@ Ardillo is a PHP framework for building asynchronous desktop applications. It co
 The project documentation is available at [ardillo.dev](https://ardillo.dev).
 
 If you're ready to get started, head over to the [Quick Start](https://ardillo.dev/docs/quick-start/) section of the documentation. Be sure to also check out the [examples](https://github.com/ardillo-php/examples) repository.
+
+### Motivation
+
+Ardillo was born out of the need to build adhoc desktop utilities for internal use. By combining the excellent libui-ng library with the flexibility of ReactPHP, one can rapdily develop applications for which a desktop interface is preferred over traditional web or CLI access.
